@@ -1,0 +1,4 @@
+Microsoft.CognitiveServices.Speech >= 1.32.0
+Azure.AI.TextAnalytics     >= 5.8.0
+OpenAI-API                 >= 1.0.0
+Newtonsoft.Json            >= 13.0.1
