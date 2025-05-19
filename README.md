@@ -1,6 +1,6 @@
-# 🧠 VoiceProfileAI
+# 🧠 SpeechRecognizerAI
 
-**VoiceProfileAI** is a lightweight C# console application that listens to live voice input, transcribes it using Azure Cognitive Services, and uses an AI model to extract and learn personal details. The extracted information is stored in a persistent, JSON-backed memory file, forming an evolving user profile over time.
+**SpeechRecognizerAI** is a lightweight C# console application that listens to live voice input, transcribes it using Azure Cognitive Services, and uses an AI model to extract and learn personal details. The extracted information is stored in a persistent, JSON-backed memory file, forming an evolving user profile over time.
 
 This tool demonstrates how real-time speech, AI understanding, and persistent memory can be combined into a dynamic, privacy-conscious voice interface.
 
